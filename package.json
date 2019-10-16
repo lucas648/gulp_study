@@ -1,0 +1,29 @@
+{
+  "name": "gulpteste",
+  "version": "1.0.0",
+  "description": "Estudando Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas648/gulp_study.git"
+  },
+  "author": "LucasCosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas648/gulp_study/issues"
+  },
+  "homepage": "https://github.com/lucas648/gulp_study#readme",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
